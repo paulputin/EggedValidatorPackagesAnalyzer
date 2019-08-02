@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/paulputin.ORT-CORP/eclipse-workspace/EggedValidatorPackagesAnalyzer/lib/commons-codec-1.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/paulputin.ORT-CORP/eclipse-workspace/EggedValidatorPackagesAnalyzer/lib/commons-collections4-4.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/paulputin.ORT-CORP/eclipse-workspace/EggedValidatorPackagesAnalyzer/lib/dom4j-1.6.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/paulputin.ORT-CORP/eclipse-workspace/EggedValidatorPackagesAnalyzer/lib/poi-4.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/paulputin.ORT-CORP/eclipse-workspace/EggedValidatorPackagesAnalyzer/lib/poi-ooxml-4.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/paulputin.ORT-CORP/eclipse-workspace/EggedValidatorPackagesAnalyzer/lib/poi-ooxml-schemas-4.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/paulputin.ORT-CORP/eclipse-workspace/EggedValidatorPackagesAnalyzer/lib/xmlbeans-3.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/paulputin.ORT-CORP/eclipse-workspace/EggedValidatorPackagesAnalyzer/lib/commons-compress-1.18.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/paulputin.ORT-CORP/eclipse-workspace/EggedValidatorPackagesAnalyzer/lib/sqlite-jdbc-3.27.2.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
